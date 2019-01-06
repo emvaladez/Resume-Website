@@ -1,12 +1,14 @@
-h1 {
-    background-color: darkseagreen;
-#startingpoint{
-    height: 100px;
-    padding: 10px 0;
-}
 #introduction{
     text-align: center; 
     background-color: aliceblue;
+}
+
+h1 {
+    background-color: darkseagreen;
+}
+#startingpoint{
+    height: 100px;
+    padding: 10px 0;
 }
 body{
     box-sizing: border-box; 
